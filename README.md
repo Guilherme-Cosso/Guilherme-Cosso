@@ -19,7 +19,7 @@
   <img align="center" alt="Cosso-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Cooso-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Cooso-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-yoda"  width="30%" src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/11/legiao_T0EHopI5X1bS.jpg.jpeg">
+  <img align="right" alt="Cosso-yoda"  width="30%" src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/11/legiao_T0EHopI5X1bS.jpg.jpeg">
 </div>
  
   ##
