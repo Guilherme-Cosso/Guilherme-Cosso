@@ -1,7 +1,7 @@
 ## Hi! I'am is Guilherme Cosso 👋
 #### Computer Science 4/8 🖥
 
-- 🔭 I’m currently studying PUC-Minas
+- 🔭 I’m currently studying Computer Science in PUC-Minas
 - 🌱 I’m currently learning Java and Angular
 - 📫 How to reach me: "gui3cosso1pimenta@gmail.com"
 - 😄 Pronouns: He/Him
