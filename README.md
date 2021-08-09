@@ -1,4 +1,4 @@
-## Hi! I'am is Guilherme Cosso 👋
+## Hi! I'm Guilherme Cosso 👋
 #### Computer Science 4/8 🖥
 
 - 🔭 I’m currently studying Computer Science in PUC-Minas
