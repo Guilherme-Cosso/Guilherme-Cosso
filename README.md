@@ -1,5 +1,5 @@
 ## Hi! I'm Guilherme Cosso 👋
-#### Computer Science 4/8 🖥
+#### Computer Science 7/8 🖥
 
 - 🔭 I’m currently studying Computer Science in PUC-Minas
 - 🌱 I’m currently learning Java and Angular
